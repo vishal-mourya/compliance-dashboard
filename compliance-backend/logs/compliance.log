@@ -1,0 +1,5 @@
+{"error":"Invalid API key","level":"error","message":"RLS Check Error","timestamp":"2024-08-05T15:37:36.557Z"}
+{"error":"Invalid API key","level":"error","message":"PITR Check Error","timestamp":"2024-08-05T15:37:37.993Z"}
+{"error":"Invalid API key","level":"error","message":"RLS Check Error","timestamp":"2024-08-05T15:37:46.747Z"}
+{"level":"info","message":"RLS Check Success","status":{"is_rls_enabled":true,"table_name":"users"},"timestamp":"2024-08-05T15:39:16.259Z"}
+{"level":"info","message":"PITR Check Success","status":[{"status":"PITR status: Enabled"}],"timestamp":"2024-08-05T15:39:18.400Z"}
