@@ -44,7 +44,6 @@ The Compliance Dashboard is a web application that interacts with Supabase to ch
    ```bash
    npm start
 
-
 # Approach for Asynchronous Processing
 
 ### 1. Using Background Jobs for Asynchronous Execution
