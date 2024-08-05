@@ -4,6 +4,8 @@
 
 The Compliance Dashboard is a web application that interacts with Supabase to check compliance status for Row Level Security (RLS) and Point in Time Recovery (PITR). It consists of a backend service built with Node.js and Express and a frontend built with React.
 
+![Dashboard Pic](dashboard.png)
+
 ## Features
 
 - **User Details Fetching**: Retrieve and display user details from the Supabase database.
